@@ -4,3 +4,6 @@
 
 dff
 something
+
+
+drop config;newEmptyPHP
